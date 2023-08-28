@@ -1,0 +1,13 @@
+.toolbar {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.actions {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

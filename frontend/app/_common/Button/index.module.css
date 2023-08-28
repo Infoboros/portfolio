@@ -1,0 +1,5 @@
+
+.buttonPrimaryContained {
+    background-color: var(--primary);
+    color: var(--primary-contrast-text);
+}
