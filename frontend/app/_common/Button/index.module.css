@@ -3,3 +3,7 @@
     background-color: var(--primary);
     color: var(--primary-contrast-text);
 }
+
+.buttonPrimaryContained:hover {
+    color: var(--primary-contrast-text-active);
+}

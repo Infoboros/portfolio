@@ -1,3 +1,32 @@
 .main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 
+    height: 90%;
+    width: 100%;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    height: 80%;
+}
+
+.summaryWrapper {
+    display: flex;
+    align-items: center;
+
+    width: 50%;
+    height: 100%;
+}
+
+.imageWrapper {
+    position: relative;
+    width: 50%;
+}
+
+.scrollNext {
+    height: 20%;
+    stroke: var(--primary);
 }

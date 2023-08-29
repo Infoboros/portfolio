@@ -8,7 +8,8 @@
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
 
     --primary: #5222D0;
-    --primary-contrast-text: #DBFFFF;
+    --primary-contrast-text: #fff;
+    --primary-contrast-text-active: #DBFFFF;
 }
 
 html,

@@ -1,10 +1,11 @@
+'use client'
+
 import React from "react";
 import styles from './index.module.css'
 import NavLink from "@/app/_common/NavLink";
 
 
 export default function Toolbar() {
-
     return (
         <header className={styles.toolbar}>
             <NavLink href={'/'} text={'Home'} type='text'/>
